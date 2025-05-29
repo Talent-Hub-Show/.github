@@ -148,5 +148,5 @@ MIT – fork, build, remix, and help shape a more human future of hiring.
 
 > **TalentHub.Show – Let them see who you are. Literally.**
 
-🌐 [LinkedIn](https://TalentHub.show](https://www.linkedin.com/company/talent-hub-show)
+🌐 (LinkedIn](https://www.linkedin.com/company/talent-hub-show)
 📬 Reach out if you want to join, contribute, or follow our journey.
