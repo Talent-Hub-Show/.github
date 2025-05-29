@@ -140,12 +140,6 @@ We value your work, curiosity, and collaboration above all else.
 
 ---
 
-## 🛡 License
-
-MIT – fork, build, remix, and help shape a more human future of hiring.
-
----
-
 > **TalentHub.Show – Let them see who you are. Literally.**
 
 🌐 [LinkedIn](https://www.linkedin.com/company/talent-hub-show)
