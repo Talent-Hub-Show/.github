@@ -1,7 +1,3 @@
-Here’s an updated version of the **TalentHub.Show README** with added `Who We Need` and `Internship` sections in the same spirit as JobSearch.Works:
-
----
-
 # 🌟 TalentHub.Show – AI-Powered Talent Discovery Platform 🚀
 
 **TalentHub.Show** is a next-generation hiring platform reimagining how companies **discover and evaluate talent**. We leverage AI to turn raw video interviews into **rich, interactive profiles** that show—not tell—what candidates can do.
@@ -152,5 +148,5 @@ MIT – fork, build, remix, and help shape a more human future of hiring.
 
 > **TalentHub.Show – Let them see who you are. Literally.**
 
-🌐 [Coming soon at TalentHub.Show](https://TalentHub.show)
+🌐 [LinkedIn](https://TalentHub.show](https://www.linkedin.com/company/talent-hub-show)
 📬 Reach out if you want to join, contribute, or follow our journey.
