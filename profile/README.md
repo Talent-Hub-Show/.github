@@ -113,7 +113,7 @@ Traditional hiring is broken—biased, inefficient, and text-heavy. **TalentHub.
 | **Support**     | Async Discord Q\&A + code/design reviews |
 | **Mentoring**   | Senior volunteers from each track        |
 | **Certificate** | Issued on completion + LinkedIn referral |
-| **Fee**         | US \$25 / week — supports mentor time    |
+| **Fee**         | AUS \$25 / week — supports mentor time    |
 
 ---
 
